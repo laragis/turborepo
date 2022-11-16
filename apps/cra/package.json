@@ -9,7 +9,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "lint": "TIMING=1 eslint \"src/**/*.ts*\"",
-    "clean": "rm -rf build"
+    "clean": "rm -rf .turbo && rm -rf node_modules && rm -rf build"
   },
   "dependencies": {
     "ui": "*",
