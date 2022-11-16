@@ -1,10 +1,10 @@
-# Turborepo starter with pnpm
+# Turborepo starter
 
 This is an official starter Turborepo.
 
 ## What's inside?
 
-This Turborepo uses [pnpm](https://pnpm.io) as a packages manager. It includes the following packages/apps:
+This Turborepo includes the following packages/apps:
 
 ### Apps and Packages
 
@@ -24,15 +24,17 @@ This Turborepo has some additional tools already setup for you:
 - [ESLint](https://eslint.org/) for code linting
 - [Prettier](https://prettier.io) for code formatting
 
-## Setup
+## Using this example
 
-This repository can be used by running `npx create-turbo@latest`, and selecting `pnpm` in the terminal prompt,
-or you can also download this folder like all the other examples with:
+This repository is used with `npx create-turbo@latest` command, but you can also use `degit` to
+download and run this example, like the other examples.
+
+Run the following command:
 
 ```sh
-npx degit vercel/turbo/examples/with-pnpm with-pnpm
-cd with-pnpm
-pnpm install
+npx degit vercel/turbo/examples/basic basic
+cd basic
+yarn install
 git init . && git add . && git commit -m "Init"
 ```
 
@@ -42,7 +44,7 @@ To build all apps and packages, run the following command:
 
 ```
 cd my-turborepo
-pnpm run build
+yarn run build
 ```
 
 ### Develop
@@ -51,7 +53,7 @@ To develop all apps and packages, run the following command:
 
 ```
 cd my-turborepo
-pnpm run dev
+yarn run dev
 ```
 
 ### Remote Caching
@@ -67,7 +69,7 @@ npx turbo login
 
 This will authenticate the Turborepo CLI with your [Vercel account](https://vercel.com/docs/concepts/personal-accounts/overview).
 
-Next, you can link your Turborepo to your Remote Cache by running the following command from the root of your turborepo:
+Next, you can link your Turborepo to your Remote Cache by running the following command from the root of your Turborepo:
 
 ```
 npx turbo link
