@@ -1,6 +1,7 @@
 # Turborepo starter with pnpm
 
 ## Core libaries
+- react-error-boundary
 - @reduxjs/toolkit
 - @tanstack/react-query
 - react-hook-form, react-number-format
@@ -76,3 +77,10 @@ npx rimraf ./**/.node_modules
 FOR /d /r . %d in (node_modules) DO @IF EXIST "%d" rm -rf "%d"
 
 ```
+
+
+REACT
+
+https://github.com/alex-cory/react-useportal
+https://github.com/xnimorz/use-debounce
+https://github.com/rehooks/awesome-react-hooks
