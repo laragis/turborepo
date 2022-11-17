@@ -1,0 +1,3 @@
+[submodule "examples/fuse-react"]
+	path = examples/fuse-react
+	url = https://github.com/laragis/fuse-react.git
