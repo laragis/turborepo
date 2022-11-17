@@ -1,6 +1,6 @@
 [submodule "examples/fuse-react-dev"]
 	path = examples/fuse-react-dev
-	url = https://github.com/laragis/fuse-react.git
+url=https://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@github.com/laragis/fuse-react.git
 	branch = dev
 [submodule "examples/fuse-react-master"]
 	path = examples/fuse-react-master
