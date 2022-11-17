@@ -2,8 +2,3 @@
 	path = examples/fuse-react
     url = https://github.com/laragis/fuse-react
     branch = master
-
-[submodule "examples/fuse-react-skeleton"]
-	path = examples/fuse-react-skeleton
-    url = https://github.com/laragis/fuse-react
-    branch = skeleton
