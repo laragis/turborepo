@@ -6,3 +6,12 @@
 	path = examples/fuse-react-master
 	url = https://github.com/laragis/fuse-react.git
 	branch = master
+[submodule "packages/react-hooks"]
+	path = packages/react-hooks
+	url = https://github.com/laragis/react-hooks.git
+[submodule "packages/ts-utils"]
+	path = packages/ts-utils
+	url = https://github.com/laragis/ts-utils.git
+[submodule "packages/ts-config"]
+	path = packages/ts-config
+	url = https://github.com/laragis/ts-config.git
