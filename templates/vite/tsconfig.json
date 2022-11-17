@@ -1,6 +1,6 @@
 {
   "exclude": ["node_modules"],
-  "extends": "tsconfig/vite.json",
+  "extends": "@ttungbmt/ts-config/vite.json",
   "compilerOptions": {
     "rootDir": "src",
     "outDir": "dist"

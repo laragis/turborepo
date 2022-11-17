@@ -2906,6 +2906,11 @@
   resolved "https://registry.npmjs.org/@trysound/sax/-/sax-0.2.0.tgz"
   integrity sha512-L7z9BgrNEcYyUYtF+HaEfiS5ebkh9jXqbszz7pC0hRBPaatV0XjSD3+eHrpqFemQfgwiFF0QPIarnIihIDn7OA==
 
+"@ttungbmt/ts-config@latest":
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/@ttungbmt/ts-config/-/ts-config-0.0.1.tgz#df36cc8582f75dbd6057edc79c84f26566efe3e1"
+  integrity sha512-XMTkScsve+624dvq7IvTNsAn/xD9HL01elm3hD7e+SD9x0APmy86LNgQMKTtpkNR+h5fqrq/W+0emoBT2mZKlQ==
+
 "@types/aria-query@^4.2.0":
   version "4.2.2"
   resolved "https://registry.npmjs.org/@types/aria-query/-/aria-query-4.2.2.tgz"
