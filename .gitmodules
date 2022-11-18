@@ -20,3 +20,7 @@
 [submodule "packages/ts-geom-utils"]
 	path = packages/ts-geom-utils
 	url = https://github.com/laragis/ts-geom-utils.git
+[submodule "examples/ts-fuse-react"]
+	path = examples/ts-fuse-react
+	url = https://github.com/laragis/fuse-react.git
+	branch = ts-dev

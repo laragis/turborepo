@@ -2,5 +2,12 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/examples/fuse-react-master" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/react-hooks" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/redux-form" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/redux-leaflet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/ts-config" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/ts-geom-utils" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/ts-utils" vcs="Git" />
   </component>
 </project>
