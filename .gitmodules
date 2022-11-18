@@ -1,7 +1,3 @@
-[submodule "examples/fuse-react-master"]
-	path = examples/fuse-react-master
-	url = https://github.com/laragis/fuse-react.git
-	branch = master
 [submodule "packages/react-hooks"]
 	path = packages/react-hooks
 	url = https://github.com/laragis/react-hooks.git
