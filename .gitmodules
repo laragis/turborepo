@@ -24,3 +24,10 @@
 	path = examples/fuse-react
 	url = https://github.com/laragis/fuse-react.git
 	branch = dev
+[submodule "packages/fuse-config"]
+	path = packages/fuse-config
+	url = https://github.com/ttungbmt/fuse-config.git
+[submodule "packages/fuse-base"]
+	path = packages/fuse-base
+	url = https://github.com/laragis/fuse-base.git
+	branch = dev
