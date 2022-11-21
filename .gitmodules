@@ -31,3 +31,6 @@
 	path = packages/fuse-base
 	url = https://github.com/laragis/fuse-base.git
 	branch = dev
+[submodule "packages/react-dynamic-component"]
+	path = packages/react-dynamic-component
+	url = https://github.com/laragis/react-dynamic-component.git
