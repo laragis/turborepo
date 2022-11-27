@@ -34,3 +34,6 @@
 [submodule "packages/react-dynamic-component"]
 	path = packages/react-dynamic-component
 	url = https://github.com/laragis/react-dynamic-component.git
+[submodule "packages/ts-tree"]
+	path = packages/ts-tree
+	url = https://github.com/laragis/ts-tree.git
